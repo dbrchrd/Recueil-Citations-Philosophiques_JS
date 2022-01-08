@@ -14,3 +14,14 @@ hr {
   background-color: #202124;
   height: 1px;
 }
+::-webkit-scrollbar {
+  width: 9px;
+}
+::-webkit-scrollbar-track {
+  background: #0C0D10;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #FFF5EB;
+  border-radius: 30px;
+  border: 2px solid #0C0D10;
+}
