@@ -55,3 +55,11 @@ body {
   border-top: 1px solid #0C0D10;
   scroll-snap-align: center;
 }
+.box h3 {
+  font-size: 5vh;
+  margin: 0 20px;
+}
+.box h5 {
+  font-size: 5vh;
+  font-family: 'Waterfall', sans-serif;
+}
