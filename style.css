@@ -63,3 +63,17 @@ body {
   font-size: 5vh;
   font-family: 'Waterfall', sans-serif;
 }
+
+.filter {
+  background: #FFFFFF15;
+  position: fixed;
+  top: 1vw;
+  left: 1vw;
+  width: 8vw;
+  height: 8vw;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+}
