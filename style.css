@@ -93,4 +93,14 @@ body {
   hr {
     margin: 25px 0;
   }
+  .box h3 {
+    font-size: 3vh;
+  }
+  .box h5 {
+    font-size: 4vh;
+  }
+  .filter {
+    width: 13vw;
+    height: 13vw;
+  }
 }
