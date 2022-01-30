@@ -83,3 +83,14 @@ body {
 }
 
 /* --- Responsive (portrait != landscape)--- */
+@media screen and (orientation: portrait) {
+  /* * {
+    background: red;
+  } */
+  .main {
+    width: 70vw;
+  }
+  hr {
+    margin: 25px 0;
+  }
+}
